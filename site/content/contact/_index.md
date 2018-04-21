@@ -1,14 +1,15 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: '3153 Lynn Avenue, South San Francisco, California 94080'
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'
+  - heading: something else
+    text: where does this gos we dont know
 ---
-
-We’d love to get in touch with you and hear your ideas and many
+We’d love to get in touch with you and hear your ideas too many
 questions. We strive to grow and improve constantly and your feedback
 is valuable for us.
 
