@@ -37,5 +37,8 @@ values:
       That’s why we reinvest 20% of our profits into farms, local businesses and
       schools everywhere our coffee is grown. You can see the communities grow
       and learn more about coffee farming on our blog.
+  - heading: tea nnn
+    imageUrl: /img/about-sustainable-farming.jpg
+    text: kj da adaD ad aDSJa . ADSa rea se sese
 ---
 
