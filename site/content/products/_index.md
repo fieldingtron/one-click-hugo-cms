@@ -1,7 +1,7 @@
 ---
 title: Our Coffeess
 image: /img/products-jumbotron.jpg
-heading: 'What we offer wena '
+heading: What we offer !!!!
 description: >-
   Kaldi is the best ultimate spot for coffee lovers who want to learn about
   their java’s origin and support the farmers that grew it. We take coffee
