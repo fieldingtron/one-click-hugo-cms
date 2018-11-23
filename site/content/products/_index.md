@@ -96,5 +96,10 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+    - description: description
+      items:
+        - helllo
+      plan: xtra big
+      price: $5
 ---
 
